@@ -30,13 +30,9 @@
   padding: 0;
 }
 
-.navbar-toggle{
+.navbar-toggler{
 	border: 2px solid white;
 	margin-right: 25px;
-}
-
-.icon-bar{
-	background-color: white;
 }
 
 
